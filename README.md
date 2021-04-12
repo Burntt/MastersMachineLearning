@@ -1,23 +1,19 @@
 # Master's Machine Learning, Harbour.Space University
 ## Spring 2021
 
-## Prerequisites
+# Overview
+This course aims to introduce students to the contemporary state of Machine Learning and Artificial Intelligence. It combines theoretical foundations of Machine Learning algorithms with comprehensive practical assignments. The course covers materials from classical algorithms to Deep Learning approaches and recent achievements in the field of Artificial Intelligence. This course is accompanied by Deep Learning in Applications course (Module 12), which brings the most recent achievements in the field and their applications.
 
-We are expecting our students to have a basic knowlege of:
-* calculus, especially matrix calculus, differentiation
-* linear algebra
-* probability theory and statistics
-* programming, especially on Python
+Programming assignments will be implemented in Python 3. PyTorch framework will be used for Deep Learning practice.
 
-Although if you don't have any of this, you could substitude it with your diligence because the course provides additional materials to study requirements yourself.
+Special acknowledgements to Nikolay Karpachev and Ivan Provilkov for contributions into the course materials and structure.
 
-## Materials for self-study
+# Learning highlights
 
-A lot of great materials are available online. See [extra_materials.md](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md) file for the whole list.
-
-Informal "aggregation" of all topics by previous years students: [file](https://github.com/girafe-ai/ml-mipt/blob/master/ML_informal_notes.pdf) (in Russian) - useful for fast and furious exam passing.
-
-Also lectures and seminars contains references to more detailed materials on topics.
+Learn the main theoretical foundations of Machine Learning and Deep Learning
+Get familiar with various approaches to supervised and unsupervised problems
+Gain essential experience in data preprocessing, model development, fitting and validation
+Develop skills required in product development and applied research
 
 
 ### Great books:
