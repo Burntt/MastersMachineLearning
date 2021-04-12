@@ -1,4 +1,4 @@
-# Master's Machine Learning, Harbour.Space University
+# Master's Machine Learning
 ## Spring 2021
 
 # Overview
